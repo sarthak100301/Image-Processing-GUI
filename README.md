@@ -1,2 +1,2 @@
 # Image-Processing-GUI
-Image Processing prject in Matlab
+Image Processing project in Matlab
